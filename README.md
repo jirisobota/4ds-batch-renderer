@@ -4,11 +4,19 @@ Blender plugin for **batch rendering models from Mafia: The City of Lost Heaven*
 
 This addon allows automated importing and rendering of multiple Mafia models directly inside Blender.
 
+### Blender Screenshot
+![Screenshot](snimek.png)
+
 ## Why This Plugin Was Created
 
 The plugin was originally created to help render and document models for the Mafia community project:
 
 https://mafia-1989.cz/models/
+
+![Front](blackha00_front.jpg)
+
+### Back
+![Back](blackha00_back.jpg)
 
 ## Requirements
 
@@ -20,6 +28,8 @@ Download link:
 https://mafia-1989.cz/down-programy/
 
 ## Features
+
+### Front
 
 - Batch import of Mafia `.4ds` models
 - Automated rendering workflow
