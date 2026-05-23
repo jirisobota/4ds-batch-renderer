@@ -35,4 +35,3 @@ Without the compatible `4ds.py` importer, the addon will not function correctly.
 ## Credits
 
 - **4DS Importer:** Richard01_CZ  
-- **Plugin:** YourName / ProjectName
